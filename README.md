@@ -3,9 +3,11 @@
 
 My Hive is a study project created to experiment with and apply advanced techniques such as micro frontend architecture, multi-layered translation (by language and business logic), Whitelabel applications, and user profiles with individual themes. The concept revolves around building an app for homeschooling communities, enabling features like receiving notifications, managing profiles, and handling registrations seamlessly.
 
-![Screenshot_1732650982](https://github.com/user-attachments/assets/2176919c-7b3f-42c8-ac7d-9d345ce663ad)
-![Screenshot_1732651034](https://github.com/user-attachments/assets/515af315-cfcf-498e-a63d-77311c069fb1)
-![Screenshot_1732651022](https://github.com/user-attachments/assets/1a24ae80-329b-407b-a98f-33d2ffc353bc)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2176919c-7b3f-42c8-ac7d-9d345ce663ad" alt="Screenshot 1" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/515af315-cfcf-498e-a63d-77311c069fb1" alt="Screenshot 2" width="300" style="margin: 10px;">
+  <img src="https://github.com/user-attachments/assets/1a24ae80-329b-407b-a98f-33d2ffc353bc" alt="Screenshot 3" width="300" style="margin: 10px;">
+</div>
 
 
 

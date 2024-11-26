@@ -1,0 +1,45 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "my_profile_microfrontend",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "my_profile_microfrontend (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "my_profile_microfrontend (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "my_profile_example",
+            "cwd": "my_profile_example",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "my_profile_example (profile mode)",
+            "cwd": "my_profile_example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "my_profile_example (release mode)",
+            "cwd": "my_profile_example",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}

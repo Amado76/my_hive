@@ -48,7 +48,7 @@ I created a custom wrapper for the Intl package, enabling each micro frontend to
 ## 5. Whitelabel and Theming
 The app supports white labeling, allowing customization for different communities. Each user profile can have its own theme, providing a personalized experience for users with multiple profiles across different organizations.
 
-Why My Hive?
+### Why My Hive?
 This project demonstrates how to build scalable, modular, and adaptable applications using Flutter. It’s designed to serve as a foundation for apps targeting diverse audiences, where customizability, translation, and modularity are key. By combining best practices in architecture with Flutter's robust ecosystem, My Hive exemplifies how to create maintainable and future-proof applications.
 
 Feel free to explore the repository to learn more about the details of the implementation and the techniques applied!
